@@ -78,7 +78,7 @@ PURPOSE.  See the above copyright notice for more information.
 #include "vtkUnsignedIntArray.h"
 #include "vtkViewTheme.h"
 
-#include <algorithm>
+#include <vtksys/stl/algorithm>
 #include <vector>
 #include <vtksys/ios/sstream>
 

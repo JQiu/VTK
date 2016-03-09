@@ -29,7 +29,7 @@
 #include "vtkTransform2D.h"
 #include "vtkNew.h"
 
-#include <algorithm>
+#include <vtksys/stl/algorithm>
 
 enum enumPointHandleType
   {
